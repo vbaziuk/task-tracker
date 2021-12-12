@@ -7,14 +7,8 @@
       "reminder": true
     },
     {
-      "text": "hahahah",
-      "day": "hahaha",
-      "reminder": true,
-      "id": 2
-    },
-    {
-      "text": "techno show",
-      "day": "Friday night",
+      "text": "buy stuff",
+      "day": "Today at Yesterday O' Clock",
       "reminder": true,
       "id": 3
     }
